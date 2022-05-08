@@ -11,15 +11,10 @@ Android Studio App
 ## ALGORITHM:
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
-
 Step 2: Then type the Application name as “ex04″ and click Next. 
-
 Step 3: Then select the Empty Activity and click Next. Finally click Finish.
-
 Step 4: Design layout in activity_main.xml.
-
 Step 5: Send SMS and Display details give in MainActivity file.
-
 Step 6: Launch an emulator and run the application.
 
 ## PROGRAM:
@@ -85,11 +80,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-
 ![Screenshot (572)](https://user-images.githubusercontent.com/75235813/167291023-27993377-6b88-47e3-9cc3-dfd9ed41513a.png)
 ![Screenshot (573)](https://user-images.githubusercontent.com/75235813/167291028-2348c79c-8812-4630-aa26-dc551e6eee06.png)
 ![Screenshot (574)](https://user-images.githubusercontent.com/75235813/167291034-fa2baf91-e56f-4854-a9f6-721ab255d526.png)
-
 
 
 ## RESULT:
